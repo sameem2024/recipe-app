@@ -21,3 +21,18 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+
+id
+: 
+"664c8f193e7aa067e94e8a04"
+image_url
+: 
+"http://forkify-api.herokuapp.com/images/bananabread_85720_16x96409.jpg"
+publisher
+: 
+"BBC Food"
+title
+: 
+"Banana bread"
