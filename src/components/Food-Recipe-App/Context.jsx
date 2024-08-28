@@ -52,7 +52,7 @@ export default function GlobalState({children}){
                 handleSubmit,recipes,setSearchParam,searchParam,
                 recipeDetailsData,setRecipeDetailsData,
                 favourites,setFavourites,handleAddToFavorite,
-                length
+                length,loading
                 
             }
         }

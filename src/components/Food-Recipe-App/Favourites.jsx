@@ -3,7 +3,7 @@ import { useContext } from "react";
 import { GlobalContext } from './Context';
 import RecipeItem from './RecipeItem';
 
-export default function Favourites({}){
+export default function Favourites(){
 
     const {favourites} = useContext(GlobalContext);
    

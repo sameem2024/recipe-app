@@ -1,9 +1,11 @@
 {
   "name": "rdx01",
   "version": "0.1.0",
+  "homepage": "https://sameem2024.github.io/react-recipe-app",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.6",
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-redux": "^9.1.2",
@@ -11,6 +13,8 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
