@@ -1,7 +1,7 @@
 {
   "name": "rdx01",
   "version": "0.1.0",
-  "homepage": "https://sameem2024.github.io/react-recipe-app",
+  "homepage": "https://sameem2024.github.io/recipe-app",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.6",
